@@ -1,0 +1,30 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "billing-math-docs-113",
+    "billing-math-reliability-115",
+    "challenge-nonce-idempotency-139",
+    "fix/idempotent-nonce-challenge",
+    "main",
+    "origin",
+    "transactions-flow-compatibility-28"
+  ],
+  "parent": {
+    "billing-math-docs-113": "main",
+    "billing-math-reliability-115": "main",
+    "challenge-nonce-idempotency-139": "main",
+    "fix/idempotent-nonce-challenge": "main",
+    "main": null,
+    "origin": "main",
+    "transactions-flow-compatibility-28": "main"
+  },
+  "order": [
+    "main",
+    "billing-math-docs-113",
+    "billing-math-reliability-115",
+    "challenge-nonce-idempotency-139",
+    "fix/idempotent-nonce-challenge",
+    "origin",
+    "transactions-flow-compatibility-28"
+  ]
+}
